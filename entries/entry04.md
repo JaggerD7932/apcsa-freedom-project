@@ -33,7 +33,7 @@ coding process of our project significantly more streamlined and efficient.
 It's just like Mr. Mueller said: "Be curious!"
 
 #### How We're Improving
-First of all, I'd like to mention how we've been hopping along the engineerign design process, but we're
+First of all, I'd like to mention how we've been hopping along the engineering design process, but we're
 finally finishing up with our plan, and are on course to start our prototype soon.
 
 Though mentioned in the previous entry, Yahia and I are working on divvying up the work ahead of us to
